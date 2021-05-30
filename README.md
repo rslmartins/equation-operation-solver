@@ -1,4 +1,4 @@
-# document-to-speech
+# equation-operation-solver
 Convert documents into audio for multiple languages
 
 # How to Run
